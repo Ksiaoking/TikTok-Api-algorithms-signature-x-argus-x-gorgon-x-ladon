@@ -4,7 +4,6 @@
 # TikTok-Api-algorithms-signature-x-argus-x-gorgon-x-ladon
 TikTok Api algorithms signature x-ladon x-argus x-gorgon device register
 
-
 1. login to the user by email and username
 2. register new device
 3. receive information of the user through user_id
